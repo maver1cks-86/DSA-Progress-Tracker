@@ -19,26 +19,7 @@ DSA-Roadmap/
 
 ---
 
-## How This Works
-
-### Phase Level
-
-* Each **Phase folder** represents a stage of preparation.
-* Every phase contains a `plan.md` file.
-
-### `plan.md`
-
-* Outlines:
-
-  * Daily schedule
-  * Topics to study
-  * Key targets
-
----
-
-## Daily Structure
-
-Each phase contains folders for **each day (based on date)**:
+ for **each day (based on date)**:
 
 ```
 May-03/
@@ -58,46 +39,6 @@ Day/
 ├── Problems-Solved/
 └── Videos-Watched/
 ```
-
----
-
-## Problems-Solved
-
-* Contains **individual `.md` files for each problem**
-
-### Format:
-
-```
-Problems-Solved/
-├── two-sum.md
-├── kadane.md
-```
-
-### Each file includes:
-
-* Problem link
-* Approach / intuition
-* Code solution
-* Time & space complexity
-
----
-
-## Videos-Watched
-
-* Contains **ONE single `.md` file per day**
-
-### Format:
-
-```
-Videos-Watched/
-└── videos.md
-```
-
-### This file includes:
-
-* List of all videos watched that day
-* Key concepts / notes
-* Important takeaways
 
 ---
 
