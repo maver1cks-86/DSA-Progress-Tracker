@@ -19,29 +19,6 @@ DSA-Roadmap/
 
 ---
 
- for **each day (based on date)**:
-
-```
-May-03/
-May-04/
-June-10/
-...
-```
-
----
-
-## Inside Each Day Folder
-
-Every day contains:
-
-```
-Day/
-├── Problems-Solved/
-└── Videos-Watched/
-```
-
----
-
 ## Daily Workflow
 
 For each day:
